@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+pandas
+plotly
+numpy
+scikit-learn
+statsmodels
+prophet
+tensorflow
+nltk
+wordcloud
+openai
+python-dotenv
+
