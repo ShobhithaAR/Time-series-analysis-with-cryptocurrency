@@ -15,7 +15,7 @@ Sentiment Analysis (crypto_sentiment.csv)
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-git clone (https://github.com/Guhashrij18/Time_series_Analysys_with_cryptocurrency)
+git clone (https://github.com/ShobhithaAR/Time_series_Analysis_with_cryptocurrency)
 cd Time_series_Analysys_with_cryptocurrency
 
 2️⃣ Install Dependencies
